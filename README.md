@@ -1,4 +1,4 @@
-#SimplexMethod
+# SimplexMethod
 
 Feito em HTML + CSS + JavaScript.
 
