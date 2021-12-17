@@ -1,3 +1,5 @@
+#SimplexMethod
+
 Feito em HTML + CSS + JavaScript.
 
 1) Executar arquivo index.html;
